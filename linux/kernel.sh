@@ -1,4 +1,4 @@
-kernel(){
+kernel( ){
 
 echo -e "\n                KERNEL \n"
 echo Kernel name:    `    uname -s`
@@ -11,9 +11,4 @@ lsb_release -a
 echo " "
 }
 
-#kernel
-lsb_release -a
-
-
-
-
+kernel
