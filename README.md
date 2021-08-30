@@ -24,7 +24,7 @@
 
 ## Example
 
-![CPU.sh](https://ibb.co/YDdGnKZ)
+![CPU.sh](https://i.postimg.cc/8C4vmSs8/Screenshot-from-2021-08-30-15-10-23.png)
  
 ## Built With 
 
