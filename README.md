@@ -24,11 +24,8 @@
 
 ## Example
 
-```
 ![CPU.sh](https://ibb.co/YDdGnKZ)
  
-```
-
 ## Built With 
 
 * bash
